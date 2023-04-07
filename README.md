@@ -36,7 +36,7 @@
 
 <!--Stack and tools-->
 &#8287;&#8287;&#8287;&#8287;&#8287;
-## :desktop_computer:Stack and tools
+<h1 align="center">:desktop_computer:Stack and tools</h1>
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="resources/stack_logo/pycharm.png"></code>
   <code><img width="5%" title="Python" src="resources/stack_logo/python.png"></code>
@@ -54,7 +54,7 @@
   
 <!--Projects-->
 
-## :cd:Projects
+<h1 align="center">:cd:Projects</h1>
 ### UI autotests
 ##### <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
 

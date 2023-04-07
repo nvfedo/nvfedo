@@ -53,22 +53,22 @@
 <h1 align="center">:cd:Projects</h1>
 <h2 align="center">UI Autotests</h2>
 
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/UI_tests_demoqa)
 
 Из интересного:
 
-- [x] tbd
-- [x] tbd
-- [x] tbd
-- [x] tbd
+- [x] Page Object
+- [x] Инкапсуляция
+- [x] Интеграция с Jenkins
+- [x] Интеграция с Allure report
 
 <h2 align="center">API Autotests</h2>
 
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/API_reqres_in)
 
 Из интересного:
 
-- [x] tbd
-- [x] tbd
-- [x] tbd
-- [x] tbd
+- [x] Шаблоны форматирования логов запросов
+- [x] Управление конфигом через pytest
+- [x] Интеграция с Jenkins
+- [x] Интеграция с Allure testops

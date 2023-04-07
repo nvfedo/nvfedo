@@ -1,4 +1,4 @@
-![grab-landing-page](https://github.com/nvfedo/resources/social_networks_logo/obi-wan.gif)
+![grab-landing-page](https://github.com/nvfedo/resources/gif/hello-there-obi-wan-kenobi.gif)
 
 ## About me
 - I'm manual QA Engineer from Moscow.

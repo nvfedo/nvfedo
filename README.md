@@ -2,7 +2,7 @@
 <img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif width="750" height="300"/>
 </div>
 
-<p style="text-align: center;">## About me</p>
+<p style="text-align: center;"> About me</p>
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
 - Now, I'am learning autotests in Python

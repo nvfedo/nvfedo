@@ -51,7 +51,7 @@
 </p>
 
 <h1 align="center">:cd:Projects</h1>
-<h2>UI autotests</h2>
+<h2 align="center">UI autotests</h2>
 
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
 

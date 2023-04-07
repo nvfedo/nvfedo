@@ -35,7 +35,7 @@
 
 [![nvfedo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvfedo&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![nvfedo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nfedo&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![nvfedo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nvfedo&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align="center">:desktop_computer:Stack and tools</h1>
 <p  align="center">

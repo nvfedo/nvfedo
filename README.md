@@ -1,8 +1,4 @@
-<div align="center">
-   <h1>
-      Hello there!
-   </h1>
-</div>
+<img src="https://media.tenor.com/aEzXb3tEEg4AAAAC/star-wars-obi-wan.gif" width="300">
 
 ## About me
 - I'm manual QA Engineer from Moscow.

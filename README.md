@@ -61,5 +61,8 @@
 <h2 align="center">API autotests</h2>
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png">[API Autotests](https://github.com/nvfedo)
 
+
 API autotests
+
+
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [GitHub Pages](https://github.com/nvfedo)

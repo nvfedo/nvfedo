@@ -36,10 +36,6 @@
 
 [![nvfedo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvfedo&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<!--Stack and tools-->
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <h1 align="center">:desktop_computer:Stack and tools</h1>
 <p  align="center">
@@ -64,3 +60,6 @@
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png">[UI Autotests](https://github.com/nvfedo)
 <h2 align="center">API autotests</h2>
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png">[API Autotests](https://github.com/nvfedo)
+
+API autotests
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [GitHub Pages](https://github.com/nvfedo)

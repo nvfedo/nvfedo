@@ -6,7 +6,7 @@
 
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
-- For now, I'am learning autotests in Python
+- For now, I'm learning autotests in Python
 - Email: nik197.1997@gmail.com
 - Contacts:
 &#8287;

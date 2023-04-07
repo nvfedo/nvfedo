@@ -36,7 +36,6 @@
 
 [![nvfedo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvfedo&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
 <h1 align="center">:desktop_computer:Stack and tools</h1>
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="resources/stack_logo/pycharm.png"></code>
@@ -51,9 +50,6 @@
   <code><img width="5%" title="Jira" src="resources/stack_logo/jira.png"></code>
   <code><img width="5%" title="Telegram" src="resources/social_networks_logo/telegram.png"></code>
 </p>
-  
-  
-<!--Projects-->
 
 <h1 align="center">:cd:Projects</h1>
 ## UI autotests

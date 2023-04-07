@@ -11,10 +11,10 @@
 - Contacts:
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://t.me/nvfedo"><img width="32px" alt="Telegram" title="Telegram" src="resources/social_networks_logo/telegram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/nvfedo"><img width="32px" alt="VK" title="VK" src="resources/social_networks_logo/vk.png"/></a>
-  &#8287;
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCPbsFNwnWhfllgNzBhxfvbFxkGtTdLbLGFDGDswNgPNCMqHgvNgkjRMvPBhDmCFkpxtmMl"><img width="37px" alt="Send me Email" title="Gmail" src="resources/social_networks_logo/gmail.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://vk.com/nvfedo"><img width="32px" alt="VK" title="VK" src="resources/social_networks_logo/vk.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCPbsFNwnWhfllgNzBhxfvbFxkGtTdLbLGFDGDswNgPNCMqHgvNgkjRMvPBhDmCFkpxtmMl"><img width="37px" alt="Send me Email" title="Gmail" src="resources/social_networks_logo/gmail.png"/></a>
   
 ## :technologist: Current work
  <table style="width=100%"  cellspacing="0" cellpadding="5">

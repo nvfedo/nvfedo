@@ -1,5 +1,11 @@
 ![grab-landing-page](https://github.com/nvfedo/resources/gif/hello-there-obi-wan-kenobi.gif)
 
+![obi-wan-gif](https://github.com/nvfedo/resources/gif/hello-there-obi-wan-kenobi.gif)
+
+<img src="https://tenor.com/ru/view/star-wars-hello-hi-what-up-obiwan-gif-8790860"> 
+
+![][http://i.imgur.com/OUkLi.gif](https://tenor.com/ru/view/star-wars-hello-hi-what-up-obiwan-gif-8790860)
+
 ## About me
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.

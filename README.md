@@ -31,6 +31,9 @@
 </table>
 
 <h1 align="center">:floppy_disk:GitHub stats</h1>
+
+[![nvfedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvfedo&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 [![nvfedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvfedo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 

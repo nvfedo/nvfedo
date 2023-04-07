@@ -55,7 +55,7 @@
 <h1 align="center">:cd:Projects</h1>
 <h2 align="center">UI Autotests</h2>
 
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/UI_tests_demoqa)
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/qa_guru_python_3_9)
 
 Из интересного:
 

@@ -1,10 +1,7 @@
 <div align="center">
-   <h1>
-      Hi there!:wave:
-   </h1>
+<img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif width="200" height="100"/>
 </div>
 
-<img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif/>
 
 ## About me
 - I'm manual QA Engineer from Moscow.

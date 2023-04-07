@@ -21,7 +21,7 @@
  <table style="width=100%"  cellspacing="0" cellpadding="5">
 	<tr>
         <td align="center">
-            <a href="https://www.magnit.tech/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="resorces/work_logo/magnit-tech.png"></a>
+            <a href="https://www.magnit.tech/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="resources/work_logo/magnit-tech.png"></a>
         </td>
         <td >
             MagnIT

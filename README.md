@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/aEzXb3tEEg4AAAAC/star-wars-obi-wan.gif" width="300">
+![grab-landing-page](https://github.com/nvfedo/resources/social_networks_logo/obi-wan.gif)
 
 ## About me
 - I'm manual QA Engineer from Moscow.

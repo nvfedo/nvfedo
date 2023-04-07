@@ -56,7 +56,7 @@
 <!--Projects-->
 
 <h1 align="center">:cd:Projects</h1>
-<h2 align="center">UI autotests</h2>
+## UI autotests
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
 - [x] tbd
 - [x] tbd

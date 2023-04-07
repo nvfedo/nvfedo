@@ -1,6 +1,6 @@
 <div align="center">
    <h1>
-      Hello there!:five:
+      Hello there!
    </h1>
 </div>
 
@@ -10,7 +10,8 @@
 - Now, I'am learning autotests in Python
 - Email: nik197.1997@gmail.com
 - Contacts:
-  <a href="https://t.me/nvfedo"><img width="32px" alt="Telegram" title="Telegram" src="resources/social_networks_logo/telegram.png"/></a>
+&#8287;
+<a href="https://t.me/nvfedo"><img width="32px" alt="Telegram" title="Telegram" src="resources/social_networks_logo/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vk.com/nvfedo"><img width="32px" alt="VK" title="VK" src="resources/social_networks_logo/vk.png"/></a>
   &#8287;

@@ -54,4 +54,4 @@
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
+##### <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfed

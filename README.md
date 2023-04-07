@@ -31,7 +31,7 @@
 </table>
 
 <h1 align="center">:floppy_disk:GitHub stats</h1>
-[![nvfedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvfedo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![nvfedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvfedo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -58,6 +58,6 @@
 
 <h1 align="center">:cd:Projects</h1>
 <h2 align="center">UI autotests</h2>
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png">[UI Autotests](https://github.com/nvfedo)
 <h2 align="center">API autotests</h2>
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
+<img width="3%" title="GitHub" src="resources/stack_logo/github.png">[API Autotests](https://github.com/nvfedo)

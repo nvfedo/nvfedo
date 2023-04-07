@@ -4,7 +4,7 @@
 
 <h1 align="center">:man_technologist:About me</h1>
 
-- I'm manual QA Engineer from Moscow.
+- My name is Nikita. I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
 - For now, I'm learning autotests in Python
 - Email: nik197.1997@gmail.com

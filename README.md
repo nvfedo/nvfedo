@@ -23,8 +23,8 @@
             <a href="https://www.magnit.tech/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="resources/work_logo/magnit-tech.png"></a>
         </td>
         <td >
-            MagnIT
-         <br><b>Инженер по тестированию.</b>
+         MagnIT
+         Инженер по тестированию
         </td>
         <td>03.2021 - nowadays </td>
     </tr>
@@ -61,6 +61,7 @@
 - [x] tbd
 - [x] tbd
 - [x] tbd
+- [ ] 
 <h2 align="center">API autotests</h2>
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
 - [x] tbd

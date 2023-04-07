@@ -6,7 +6,7 @@
 
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
-- Now, I'am learning autotests in Python
+- For now, I'am learning autotests in Python
 - Email: nik197.1997@gmail.com
 - Contacts:
 &#8287;
@@ -29,6 +29,9 @@
         <td>03.2021 - nowadays </td>
     </tr>
 </table>
+
+[![nvfedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvfedo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--Stack and tools-->

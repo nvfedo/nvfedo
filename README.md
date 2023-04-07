@@ -2,7 +2,7 @@
 <img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif width="750" height="300"/>
 </div>
 
-<h1 align="center"> About me </h1>
+<h1 align="center"> :man_technologist:About me </h1>
 
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.

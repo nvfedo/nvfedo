@@ -54,6 +54,7 @@
 <h2>UI autotests</h2>
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo)
 
+
 Из интересного:
 
 - [x] tbd
@@ -62,14 +63,10 @@
 - [x] tbd
 
 <h2 align="center">API autotests</h2>
-<img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
-- [x] tbd
-- [x] tbd
-- [x] tbd
-- [x] tbd
-
-
-API autotests
-
 
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo)
+
+- [x] tbd
+- [x] tbd
+- [x] tbd
+- [x] tbd

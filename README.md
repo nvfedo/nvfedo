@@ -3,7 +3,7 @@
 </div>
 
 
-## About me
+<div align="center">## About me</div>
 - I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
 - Now, I'am learning autotests in Python

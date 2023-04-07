@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+   <h1>
+      Hello there!:five:
+   </h1>
+</div>
 
-<!--
-**nvfedo/nvfedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- I'm manual QA Engineer from Moscow.
+- I work QA about 3 years.
+- I learning autotests in Python
+- Email: nik197.1997@gmail.com
+- Contacts:
+  <a href="https://t.me/nvfedo"><img width="32px" alt="Telegram" title="Telegram" src="resources/social_networks_logo/telegram.png"/></a>
+  &#8287;
+  <a href="https://vk.com/nvfedo"><img width="32px" alt="VK" title="VK" src="resources/social_networks_logo/vk.png"/></a>
+  &#8287;
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCPbsFNwnWhfllgNzBhxfvbFxkGtTdLbLGFDGDswNgPNCMqHgvNgkjRMvPBhDmCFkpxtmMl"><img width="37px" alt="Send me Email" title="Gmail" src="resources/social_networks_logo/gmail.png"/></a>

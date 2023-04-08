@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif width="750" height="300"/>
+<img src=https://github.com/nvfedo/nvfedo/blob/main/resources/gif/hello-there-obi-wan-kenobi.gif width="700" height="300"/>
 </div>
 
 <h1 align="center">:man_technologist:About me</h1>

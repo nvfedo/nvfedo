@@ -6,7 +6,7 @@
 
 - My name is Nikita. I'm manual QA Engineer from Moscow.
 - I work in QA about 3 years.
-- For now, I'm learning autotests in Python
+- For now, I'm learning autotests in Python.
 - Email: nik197.1997@gmail.com
 - Contacts:
 &#8287;
@@ -23,7 +23,7 @@
             <a href="https://www.magnit.tech/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="resources/work_logo/magnit-tech.png"></a>
         </td>
         <td >
-         MagnIT. Инженер по тестированию
+         MagnIT. quality assurance engineer
         </td>
         <td>03.2021 - nowadays </td>
     </tr>
@@ -57,20 +57,24 @@
 
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/qa_guru_python_3_9)
 
-Из интересного:
+Features:
 
 - [x] Page Object
-- [x] Инкапсуляция
-- [x] Интеграция с Jenkins
-- [x] Интеграция с Allure report
+- [x] Encapsulation
+- [x] Jenkins integration with GitHub repo
+- [x] Integration with Allure Report
+- [x] Integration with Allure TestOps
+- [x] Integration with Telegram notification bot
 
 <h2 align="center">API Autotests</h2>
 
 <img width="3%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/API_reqres_in)
 
-Из интересного:
+Features:
 
-- [x] Шаблоны форматирования логов запросов
-- [x] Управление конфигом через pytest
-- [x] Интеграция с Jenkins
-- [x] Интеграция с Allure testops
+- [x] Schema Compliance
+- [x] Requests logging
+- [x] Jenkins integration with GitHub repo
+- [x] Integration with Allure Report
+- [x] Integration with Allure TestOps
+- [x] Integration with Telegram notification bot

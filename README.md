@@ -68,7 +68,7 @@ Features:
 
 <h2 align="center">API Autotests</h2>
 
-<img width="2%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/API_reqres_in)
+<img width="2%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/qa_guru_python_3_18)
 
 Features:
 

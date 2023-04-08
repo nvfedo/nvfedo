@@ -23,7 +23,7 @@
             <a href="https://www.magnit.tech/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="resources/work_logo/magnit-tech.png"></a>
         </td>
         <td >
-         MagnIT. quality assurance engineer
+         MagnIT. Quality assurance engineer
         </td>
         <td>03.2021 - nowadays </td>
     </tr>

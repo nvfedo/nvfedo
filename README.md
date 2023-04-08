@@ -55,7 +55,7 @@
 <h1 align="center">:cd:Projects</h1>
 <h2 align="center">UI Autotests</h2>
 
-<img width="1%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/qa_guru_python_3_9)
+<img width="2%" title="GitHub" src="resources/stack_logo/github.png"> [UI Autotests](https://github.com/nvfedo/qa_guru_python_3_9)
 
 Features:
 
@@ -68,7 +68,7 @@ Features:
 
 <h2 align="center">API Autotests</h2>
 
-<img width="1%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/API_reqres_in)
+<img width="2%" title="GitHub" src="resources/stack_logo/github.png"> [API Autotests](https://github.com/nvfedo/API_reqres_in)
 
 Features:
 
